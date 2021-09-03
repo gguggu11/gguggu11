@@ -22,7 +22,7 @@ Tech Stack
 <img src="https://img.shields.io/badge/Adobe Photoshop-EA4335?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <br><br><br>
 
-  <h3>Contect</h3> 
+  <h3>Contact</h3> 
 <img src="https://img.shields.io/badge/ddepp11@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 <!---
