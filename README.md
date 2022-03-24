@@ -17,14 +17,18 @@ Tech Stack
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-F7DF1E?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-EA4335?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-<br><br><br>
 
+
+***
   <h3>Contact</h3> 
-<img src="https://img.shields.io/badge/<ddepp11@gmail.com>-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
- 
+<img src="https://img.shields.io/badge/ddepp11@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><ddepp11@gmail.com>
+
+  
 
 <h6>이곳은 저의 공부 블로그입니다. [https://url.kr/7iu5ze]
   <br>하루하루 나아질 자신을 위해 열심히 성장중입니다.</h6>
