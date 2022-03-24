@@ -25,8 +25,8 @@ Tech Stack
   <h3>Contact</h3> 
 <img src="https://img.shields.io/badge/<ddepp11@gmail.com>-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>  
-#
-<h6>이곳은 저의 공부 블로그입니다. <https://url.kr/7iu5ze>
+
+<h6>이곳은 저의 공부 블로그입니다. [https://url.kr/7iu5ze]
   <br>하루하루 나아질 자신을 위해 열심히 성장중입니다.</h6>
 
 <!---
